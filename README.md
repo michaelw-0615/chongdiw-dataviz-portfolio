@@ -37,8 +37,8 @@ The link for this project will be updated upon completion.
 
 ---
 
-## References
+# References
 References to be added later.
 
-## AI acknowledgements
+# AI acknowledgements
 As of now, I have not used AI for creating this portfolio. Acknowledgements will be updated later if AI is used.
