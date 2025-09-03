@@ -11,20 +11,17 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! I'm Chongdi Wang, a master's student in the Information Systems Management--Business Intelligence and Data Analytics (MISM-BIDA) program in Carnegie Mellon's Heinz College. As someone fond of listening to stories (both fictional and in real-life) and a student whose major is related to data, I find the course "Telling Stories With Data" quite intriguing, and I believe it will uncover connections between data and storytelling that will be helpful for my work. So here I am, creating this portfolio for my future projects in Tellling Stories With Data!
+
+Outside of work and study, I do a lot of cardio exercise daily. I'm not a big fan of any particular artist, but I listen to a lot of pop rock music, both Asian and American. By the way, whenever I have more than 2 days of spare time, I'll be travelling to somewhere--I hope that I could visualize where I've been over the years by the end of this course!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+The following are the top three things that I hope to obtain through this course: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Ways of designing clean, easy-to-read graphics that tell the data I want to tell;
+2. IT tools that help me design fancy data visualization;
+3. Ways of criticizing data visualization and telling stories from them.
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
 
 # Portfolio
 
