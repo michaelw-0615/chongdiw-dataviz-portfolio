@@ -9,6 +9,8 @@ Hi! I'm Chongdi Wang, a master's student in the Information Systems Management--
 
 Outside of work and study, I do a lot of cardio exercise daily. I'm not a big fan of any particular artist, but I listen to a lot of pop rock music, both Asian and American. By the way, whenever I have more than 2 days of spare time, I'll be travelling to somewhere--I hope that I could visualize where I've been over the years by the end of this course!
 
+<img src="IMG_4671.jpeg" width="1000"/>
+
 # What I hope to learn
 The following are the top three things that I hope to obtain through this course: 
 
