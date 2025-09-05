@@ -23,7 +23,7 @@ _You can place some of your data viz examples from the course here.  Make sure t
     <param name='display_spinner' value='yes' />
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
-    <param name='language' value='zh-CN' />
+    <param name='language' value='en-US' />
     <param name='filter' value='publish=yes' />
   </object>
 </div>   
