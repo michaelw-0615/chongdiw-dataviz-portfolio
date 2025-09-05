@@ -5,11 +5,10 @@ _You can place some of your data viz examples from the course here.  Make sure t
 
 ## Project 1: Government Debts
 
-<div class='tableauPlaceholder' id='viz1757105186586' style='position: relative'>
-  <noscript>
-    <a href='#'><img alt='Government Debt-to-GDP Ratio of OECD Countries, 1995-2019Source: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;1_&#47;1_17571051456060&#47;1&#47;1_rss.png' style='border: none' />
-    </a>
-  </noscript>
+<div class='tableauPlaceholder' id='viz1757106182610' style='position: relative'><noscript><a href='#'>
+  <img alt='Government Debt-to-GDP Ratio of OECD Countries, 1995-2019Source: https:&#47;&#47;www.oecd.org&#47;en&#47;data&#47;indicators&#47;general-government-debt.html ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;1_&#47;1_17571051456060&#47;1&#47;1_rss.png' style='border: none' />
+</a>
+</noscript>
   <object class='tableauViz'  style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
     <param name='embed_code_version' value='3' /> 
@@ -26,10 +25,10 @@ _You can place some of your data viz examples from the course here.  Make sure t
     <param name='language' value='en-US' />
     <param name='filter' value='publish=yes' />
   </object>
-</div>   
+</div>                
 
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1757105186586');                    
+  var divElement = document.getElementById('viz1757106182610');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
