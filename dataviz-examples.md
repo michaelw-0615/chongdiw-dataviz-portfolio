@@ -26,7 +26,8 @@ _You can place some of your data viz examples from the course here.  Make sure t
     <param name='language' value='zh-CN' />
     <param name='filter' value='publish=yes' />
   </object>
-</div>                
+</div>   
+
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1757105186586');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
