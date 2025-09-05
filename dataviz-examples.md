@@ -4,7 +4,6 @@
 _You can place some of your data viz examples from the course here.  Make sure to include any citations / references / data sources used, and it's probably a good idea to explain what these visualizations show._
 
 ## Project 1: Government Debts
-Part 2:
 <div class='tableauPlaceholder' id='viz1757108353843' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -38,7 +37,6 @@ Part 2:
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-Part 3:
 <div class='tableauPlaceholder' id='viz1757108461810' style='position: relative'>
   <noscript>
     <a href='#'>
