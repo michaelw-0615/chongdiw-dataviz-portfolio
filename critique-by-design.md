@@ -61,12 +61,12 @@ I introduced the above solution to a few fellow students (whose personal informa
 |----------|-------------|-------------|-------------|-------------|
 |What do you think works about this chart?|The detailed labels on the X and Y axes.|Lines that represent actual figures, not ratios.|             |             |
 |What do you think didn't work well?|The lines look like competing groups rather than component categories.|             |The relations among the multiple lines are somewhat unclear.|Some lines have little to do with the total amount.|
-|          |             |             |
+|If you were to redesign, what might you try next?|             |Adding an average line of the total production amount over the years might help.|Adding a subtitle.|Perhaps we should not stick to the original line chart and try something new.|
 
 
 ## Step five: build the solution
 
-Reflecting on the feedback from my peers, I feel that the original idea of depicting tonnage numbers in simple lines is still not engaging and intuitive enough. The lines for each category are separate from the total, which gives people a feeling that they’re not associated. Also, the gray color for breakdown categories make it hard for human eyes to catch in case some viewers do want a deeper dive into the figures. Therefore, a completely new pattern might be needed.
+Reflecting on the feedback from my peers, I feel that the original idea of depicting tonnage numbers in simple lines is still not engaging and intuitive enough. The lines for each category are separate from the total, which gives people a feeling that they’re not associated. Also, the gray color for breakdown categories make it hard for human eyes to catch in case some viewers do want a deeper dive into the figures. Therefore, a completely different design might be needed.
 
 After that, I recalled the dataviz discussion before our first class and came up with the stack area chart, which was extremely similar to the mountains and snowlines of Wyoming that I previously posted. What about using the outlines of the Rocky Mountains to represent the total meat production tonnage, and dividing categories using the snowline?
 <img src="Streamgraph.jpg" width="1000"/>
