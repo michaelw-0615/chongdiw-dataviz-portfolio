@@ -68,7 +68,10 @@ I introduced the above solution to a few fellow students (whose personal informa
 
 Reflecting on the feedback from my peers, I feel that the original idea of depicting tonnage numbers in simple lines is still not engaging and intuitive enough. The lines for each category are separate from the total, which gives people a feeling that they’re not associated. Also, the gray color for breakdown categories make it hard for human eyes to catch in case some viewers do want a deeper dive into the figures. Therefore, a completely new pattern might be needed.
 
-After that, I recalled the dataviz discussion before our first class and came up with the stack area chart, which was extremely similar to the outline of mountains and snowlines of Wyoming that I previously posted. By stacking sequential red-colored categories onto one another, we naturally get the outline of a decreasing total while still preserving independent categories which form parts of the total meat production. This way, the intuitiveness and perceptiveness get significantly improved, and the final solution looks indeed like a piece of meat (which is intentionally designed by me).
+After that, I recalled the dataviz discussion before our first class and came up with the stack area chart, which was extremely similar to the mountains and snowlines of Wyoming that I previously posted. What about using the outlines of the Rocky Mountains to represent the total meat production tonnage, and dividing categories using the snowline?
+<img src="Streamgraph.jpg" width="1000"/>
+
+By stacking sequential red-colored categories onto one another, we naturally get the outline of a decreasing total while still preserving independent categories which form parts of the total meat production. This way, the intuitiveness and perceptiveness get significantly improved, and the final solution looks indeed like a piece of meat (which is intentionally designed by me).
 
 ## References
 _List any references you used here._
