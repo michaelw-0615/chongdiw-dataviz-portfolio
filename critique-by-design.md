@@ -54,22 +54,21 @@ Based on my critique above, I decided to a) cut the time range short to only 201
 
 ## Step four: Test the solution
 
-I introduced the above solution to a few fellow students (whose personal information is hidden here) and asked about their impressions. The following are their responses.
+I introduced the above solution to a few fellow students (whose personal information is hidden here) and asked about their impressions. The following are excerpts from their responses.
 
 
 | Question | Interview 1 | Interview 2 | Interview 3 | Interview 4 |
 |----------|-------------|-------------|-------------|-------------|
 |What do you think works about this chart?|The detailed labels on the X and Y axes.|Lines that represent actual figures, not ratios.|             |             |
-|          |             |             |
+|What do you think didn't work well?|The lines look like competing groups rather than component categories.|             |The relations among the multiple lines are somewhat unclear.|Some lines have little to do with the total amount.|
 |          |             |             |
 
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
-Reflecting on the feedback from my peers, I feel that the original idea of depicting tonnage numbers in simple lines is still not engaging and intuitive enough. The lines for each category are separate from the total, which gives people a feeling that they’re not associated. Also, the gray color for breakdown categories make it hard for human eyes to catch in case some viewers do want a deeper dive into the figures. After that, I recalled the dataviz discussion before our first class and came up with the stack area chart. By stacking sequential red-colored categories onto one another, we naturally get the outline of a decreasing total while still preserving independent categories which form parts of the total meat production. This way, the intuitiveness and perceptiveness get significantly improved, and the final solution looks indeed like a piece of meat (which is intentionally designed by me).
+Reflecting on the feedback from my peers, I feel that the original idea of depicting tonnage numbers in simple lines is still not engaging and intuitive enough. The lines for each category are separate from the total, which gives people a feeling that they’re not associated. Also, the gray color for breakdown categories make it hard for human eyes to catch in case some viewers do want a deeper dive into the figures. Therefore, a completely new pattern might be needed.
+
+After that, I recalled the dataviz discussion before our first class and came up with the stack area chart, which was extremely similar to the outline of mountains and snowlines of Wyoming that I previously posted. By stacking sequential red-colored categories onto one another, we naturally get the outline of a decreasing total while still preserving independent categories which form parts of the total meat production. This way, the intuitiveness and perceptiveness get significantly improved, and the final solution looks indeed like a piece of meat (which is intentionally designed by me).
 
 ## References
 _List any references you used here._
