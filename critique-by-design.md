@@ -7,6 +7,8 @@ In this project, I'll be redesigning the German meat production visualization pu
 
 The original data visualization of the German meat production issue was published in February on https://www.destatis.de/EN/Press/2023/02/PE23_051_413.html. 
 
+<img src="Meat.jpg" width="1000"/>
+
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
