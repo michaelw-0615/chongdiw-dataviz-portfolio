@@ -6,13 +6,13 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-I plan to talk about the rise of Asian restaurants--in particular, Chinese restaurants--in the US, and how they became part of the everyday menu of Americans over time. I'm especially interested in this topic not only because I'm surprised by the prevalence of Chinese food across the country, but also because there's not much serious narrative about their past.
+I plan to talk about the rise of Chinese restaurants in the US, and how they became part of the everyday menu of Americans over the past 150 years. I'm especially interested in this topic because I've been surprised by the abundance of Chinese food around the CMU campus. Also, during my initial investigation, I've noticed that even though Chinese cuisine has been one of the most popular genres of dishes in the United States, records about its history and development remain relatively scarce, prompting me to dive deeper into this topic.
 
-By telling the backstage stories of Chinese restaurants and cuisine in the US, I hope that both my audience and myself could understand better about the life of the Chinese ethnic group in a nation far away from home. Also, through this project, I hope to encourage my audience to see different social groups in an inclusive way. 
+By telling the backstage stories and less-known facts of Chinese restaurants and cuisine in the US, I expect my audience to try out a few Chinese restaurants around their communities, and see how the ancient Chinese cuisine style has evolved in a land far away from home. Also, through this project, I hope to encourage my audience to perceive different social and racial groups in a more inclusive way. 
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-My story arc:
+My planned story arc is illustrated in this sketch below. First, I'll 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -41,4 +41,4 @@ Text here...
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+The above report is formulated completely free of GenAI assistance.
