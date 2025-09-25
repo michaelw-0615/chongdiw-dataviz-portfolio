@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-# Outline
+# Final Project Part 1: Project Outline
  
 I plan to talk about the rise of Chinese restaurants in the US, and how they became part of the everyday menu of Americans over the past 150 years. I'm especially interested in this topic because I've been surprised by the abundance of Chinese food around the CMU campus. Also, during my initial investigation, I've noticed that even though Chinese cuisine has been one of the most popular genres of dishes in the United States, records about its history and development remain relatively scarce, prompting me to dive deeper into this topic.
 
@@ -32,7 +31,7 @@ Other sources include the *Chinese Immigration and Chinese in the United States*
 
 More data sources might be added as the project progresses.
 
-# Method and medium
+## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
 I'll spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. 
