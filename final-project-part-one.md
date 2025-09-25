@@ -37,7 +37,7 @@ More data sources might be added as the project progresses.
 I will spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. Meanwhile I will also conduct interviews to different groups of viewers in every stage, ask about their opinions on my plans, and incorporate potential changes into my presentation and deliverables.
 
 ## References
-
+Ferdio, *Data Viz Projects*. https://datavizproject.com
 
 ## AI acknowledgements
 The above report is formulated completely free of GenAI assistance.
