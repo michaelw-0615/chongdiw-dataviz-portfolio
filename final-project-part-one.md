@@ -6,7 +6,7 @@ I plan to talk about the rise of Chinese restaurants in the US, and how they bec
 
 By telling the backstage stories and less-known facts of Chinese restaurants and cuisine in the US, I expect my target audience--exotic food lovers and restaurant goers in the Pittsburgh area--to try out a few Chinese restaurants around their communities, and see how the ancient Chinese cuisine style has evolved in a land far away from home. Also, through this project, I hope to encourage my audience to perceive different social and racial groups in a more inclusive way. 
 
-My planned story arc is illustrated in this sketch below. First, I will introduce my audience to the story arc by a few interesting facts (like that fortune cookies are never part of Chinese dishes before they came to the US), and will illustrate the first boom of Chinese restaurants in the late 19th century resulting from immigration and the Gold Rush. Then I will explain the downturn in early Chinese restaurants following the Chinese Exclusion Act, and how their culinary styles gradually shifted to adapt to the American stomachs. Following this part, I will showcase the second boom of Chinese restaurants since the 1960-70s when the newly-born fast-food culture gave rise to popular Chinese-style fast-food chains. Meanwhile, I will also use different visualization techniques to demonstrate the change in top menu items. Finally, I will conclude by recommending my audience to visit nearby Chinese restaurants and experience different styles of Chinese cuisine that exists in the US nowadays.
+My planned story arc is illustrated in this sketch below. First, I will introduce my audience to the story arc by a few interesting facts (like that fortune cookies are never part of Chinese dishes before they came to the US), and will illustrate the first boom of Chinese restaurants in the late 19th century resulting from immigration and the Gold Rush. Then I will explain the downturn of early Chinese restaurants following the Chinese Exclusion Act, and how their culinary styles gradually shifted to adapt to the American stomachs. Following this part, I will showcase the second boom of Chinese restaurants since the 1960-70s when the newly-born fast-food culture gave rise to popular Chinese-style fast-food chains. Meanwhile, I will also use different visualization techniques to demonstrate the change in top menu items. Finally, I will conclude by recommending my audience to visit nearby Chinese restaurants and experience different styles of Chinese cuisine that exists in the US nowadays.
 
 ## Initial sketches
 
@@ -16,7 +16,7 @@ Besides, to show the market size of Chinese cuisine, I plan to include a treemap
 
 And also a word cloud that illustrates the top menu items over time...
 
-# The data
+## The data
 
 The first data source that I want to use is *150 Years of Chinese Food in America* by Connie Chang, et al., a visualized web page that introduces briefly about the history of American Chinese cuisine. I do not intend to mimic dataviz elements from this page (actually I came up with the idea of visualizing Chinese Food in America long before I saw this page), but will refer to its bibliography section to explore more authentic data sources.
 
@@ -34,7 +34,7 @@ More data sources might be added as the project progresses.
 ## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-I'll spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. 
+I will spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. Meanwhile I will also conduct interviews to different groups of viewers in every stage, ask about their opinions on my plans, and incorporate potential changes into my presentation and deliverables.
 
 ## References
 
