@@ -16,13 +16,13 @@ Besides, to show the market size of Chinese cuisine, I plan to include a treemap
 
 <p align="center">
     <img src="sketch2.jpg" width="800"/>
-<\p>
+</p>
  
 And also a word cloud that illustrates the top menu items over time...
 
 <p align="center">
     <img src="sketch3.jpg" width="1000"/>
-<\p>
+</p>
 
 ## The data
 
