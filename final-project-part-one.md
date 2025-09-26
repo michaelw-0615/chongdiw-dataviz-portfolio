@@ -12,15 +12,23 @@ My planned story arc is illustrated in this sketch below. First, I will introduc
 
 The first graph I expect myself to include is a line chart depicting the estimated number of Chinese restaurants over year.
 
-Besides, to show the market size of Chinese cuisine, I plan to include a treemap that compares a few Chinese-style chain restaurants and some of their counterparts.
+Besides, to show the market size of Chinese cuisine, I plan to include a treemap [1] that compares a few Chinese-style chain restaurants and some of their counterparts.
 
+<p align="center">
+    <img src="sketch2.jpg" width="800"/>
+<\p>
+ 
 And also a word cloud that illustrates the top menu items over time...
+
+<p align="center">
+    <img src="sketch3.jpg" width="1000"/>
+<\p>
 
 ## The data
 
 The first data source that I want to use is *150 Years of Chinese Food in America* by Connie Chang, et al., a visualized web page that introduces briefly about the history of American Chinese cuisine. I do not intend to mimic dataviz elements from this page (actually I came up with the idea of visualizing Chinese Food in America long before I saw this page), but will refer to its bibliography section to explore more authentic data sources.
 
-Other sources include the *Chinese Immigration and Chinese in the United States* report by the US National Archives and the *Buttolph Collection of Menus* by the New York Public Library, which includes detailed statistics ranging from Chinese immigration records to popular menus and will help make my charts more concrete, more detailed.
+Other sources include the *Chinese Immigration and Chinese in the United States* report by the US National Archives and the *Buttolph Collection of Menus* by the New York Public Library, which include detailed statistics ranging from Chinese immigration records to popular menus and will help make my charts more concrete, more detailed.
 
 
 | Name | URL | Description |
@@ -34,10 +42,10 @@ More data sources might be added as the project progresses.
 ## Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-I will spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. Meanwhile I will also conduct interviews to different groups of viewers in every stage, ask about their opinions on my plans, and incorporate potential changes into my presentation and deliverables.
+I will spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. In the meantime, I will also conduct interviews to different groups of viewers in every stage, ask about their opinions and feedbacks on my design, and incorporate potential changes into my presentation and deliverables.
 
 ## References
-Ferdio, *Data Viz Projects*. https://datavizproject.com
+1. Ferdio, *Data Viz Projects*. https://datavizproject.com
 
 ## AI acknowledgements
 The above report is formulated completely free of GenAI assistance.
