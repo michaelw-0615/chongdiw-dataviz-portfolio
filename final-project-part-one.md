@@ -8,9 +8,18 @@ By telling the backstage stories and less-known facts of Chinese restaurants and
 
 My planned story arc is illustrated in this sketch below. First, I will introduce my audience to the story arc by a few interesting facts (like that fortune cookies are never part of Chinese dishes before they came to the US), and will illustrate the first boom of Chinese restaurants in the late 19th century resulting from immigration and the Gold Rush. Then I will explain the downturn of early Chinese restaurants following the Chinese Exclusion Act, and how their culinary styles gradually shifted to adapt to the American stomachs. Following this part, I will showcase the second boom of Chinese restaurants since the 1960-70s when the newly-born fast-food culture gave rise to popular Chinese-style fast-food chains. Meanwhile, I will also use different visualization techniques to demonstrate the change in top menu items. Finally, I will conclude by recommending my audience to visit nearby Chinese restaurants and experience different styles of Chinese cuisine that exists in the US nowadays.
 
+<p align="center">
+    <img src="arc.jpg" width="1000"/>
+</p>
+
 ## Initial sketches
 
-The first graph I expect myself to include is a line chart depicting the estimated number of Chinese restaurants over year.
+The first graph I expect myself to include is a pictorial unit chart depicting the estimated number of Chinese restaurants over year. Each dot could be in the shape of a house (or something similar) to give the impression of a restaurant.
+
+<p align="center">
+    <img src="sketch1.jpg" width="800"/>
+</p>
+
 
 Besides, to show the market size of Chinese cuisine, I plan to include a treemap [1] that compares a few Chinese-style chain restaurants and some of their counterparts.
 
@@ -40,7 +49,6 @@ Other sources include the *Chinese Immigration and Chinese in the United States*
 More data sources might be added as the project progresses.
 
 ## Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
 I will spend the first part of the project phase on gathering data and formulating drafts. Then I will utilize Tableau for chart creation and Shorthand for visualizaion. In the meantime, I will also conduct interviews to different groups of viewers in every stage, ask about their opinions and feedbacks on my design, and incorporate potential changes into my presentation and deliverables.
 
@@ -48,4 +56,4 @@ I will spend the first part of the project phase on gathering data and formulati
 1. Ferdio, *Data Viz Projects*. https://datavizproject.com
 
 ## AI acknowledgements
-The above report is formulated completely free of GenAI assistance.
+ChatGPT 5 was used to correct HTML syntax for picture insertion. Other than that, the thoughts, ideas and design above are formulated completely free of GenAI assistance.
