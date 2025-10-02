@@ -38,11 +38,8 @@ I interviewed multiple peer students--both within and outside this course. Here 
 |------------------------------------------|---------------------------------------------------------------------------------|
 | The call of action should be simple, concrete and relatable to the audience. | Make recommendations to local restaurants in Pittsburgh based on price, taste profile and area, instead of just calling for understanding. |
 | The structure of the story should be more coherent between parts. | Add personal experience at the beginning to serve as introduction to topic, and relate the call of action to the "change in styles" part. |
-| The                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-
+| Some charts, especially those related to food types, could be made more engaging. | Visualize food types or ingredients with similar colors (just like how I visualized German meat production) would be a favorable choice. |
+| Quantitative data must be accurate and consistent with the main ideas. | Double-check all data sources, and add restaurant/menu data sources received from interviews and assignment comments. |
 
 
 ## References
