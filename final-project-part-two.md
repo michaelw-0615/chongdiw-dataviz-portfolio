@@ -17,22 +17,19 @@ The main goal for me to conduct interviews is to understand what my audience wan
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
+| To find parts where I can improve | What do you think didn't work in my plan? |
+| To gather potential questions from the audience and prepare for answers in presentation accordingly | What parts in my plan do you have questions about/makes you curious? |
+| To look for potential alternative actions for ambiguous/challenging ideas | Restaurant data for Pittsburgh is scarce. What would you choose if you were to tell this story? |
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
+I interviewed multiple peer students--both within and outside this course. Here are the responses from selected interviewees.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions               | Interviewee 1 | Interviewee 2 | Interviewee 3 | Interviewee 4 |
+|-------------------------|--------------------------------|-------------|-------------|-------------|
+| What do you think didn't work in my plan? | The topic might be too broad if you focus on discussing nation-level data. That's less related to daily life. |             |             | Comparing the total number of Chinese restaurants with specific brands isn't convincing enough. |
+| What parts in my plan do you have questions about/makes you curious? | Could you make your call of action more explicit? | Where does your menu item data come from? Do you have any solid data source? Will you need to cleanse the menu data (e.g. do basic counting using Python scripts) before displaying? | How are you planning to match your background story (about Chinese immigration) with restaurant data? |             |
+| Restaurant data for Pittsburgh is scarce. What would you choose if you were to tell this story? |                                |             | I would avoid including quantitative data for Pittsburgh if it's insufficient to support my points. Interactive maps would be better if you want to make recommendations. |             |
 
 
 # Identified changes for Part III
