@@ -8,14 +8,12 @@ My storyboard can be accessed via https://preview.shorthand.com/83WWD176gYbrzaZq
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 At first, I expected that my audience for this project would just be the general public or restaurant-goers across the US, but on second thought, I realize that might be too broad for my storytelling. Therefore, I decided that my target audience would be people living in Pittsburgh who are enthusiastic in food but not familiar with Chinese cuisine. I would try my best to relate my topic of changes in Chinese cuisine in the US with the wide variety of Chinese caterers in Pittsburgh, and incorporate actionable suggestions in the end of my project so that my audience can easily experience Chinese food on their own after viewing my story.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-The main goal for me to conduct interviews
+The main goal for me to conduct interviews is to understand what my audience want from my presentation, and what actions they would choose to take if they were me. These will help me determine the components and the structure of my story.
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -24,7 +22,6 @@ The main goal for me to conduct interviews
 |      |                  |
 
 
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
@@ -39,9 +36,7 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -51,14 +46,12 @@ Text here!
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
 
-Text here!
 
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+This document is created without GenAI involvement.
 
