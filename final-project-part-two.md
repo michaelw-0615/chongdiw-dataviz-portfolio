@@ -1,7 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
 My storyboard can be accessed via https://preview.shorthand.com/83WWD176gYbrzaZq.
 
@@ -37,9 +36,9 @@ I interviewed multiple peer students--both within and outside this course. Here 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| The call of action should be simple, concrete and relatable to the audience. | Make recommendations to local restaurants in Pittsburgh based on price, taste profile and area, instead of just calling for understanding. |
+| The structure of the story should be more coherent between parts. | Add personal experience at the beginning to serve as introduction to topic, and relate the call of action to the "change in styles" part. |
+| The                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
