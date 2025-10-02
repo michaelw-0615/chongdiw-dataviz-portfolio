@@ -43,7 +43,7 @@ I interviewed multiple peer students--both within and outside this course. Here 
 
 
 ## References
-_List any references you used here._
+
 
 ## AI acknowledgements
 This document is created without GenAI involvement.
