@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-My storyboard can be accessed via https://preview.shorthand.com/83WWD176gYbrzaZq.
+My storyboard can be accessed via [https://preview.shorthand.com/83WWD176gYbrzaZq](https://preview.shorthand.com/2SjAGRT7xgKaEF6g/responsive/desktop).
 
 # User research 
 
