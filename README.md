@@ -19,26 +19,21 @@ The following are the top three things that I hope to obtain through this course
 3. Ways of criticizing data visualization and telling stories from them.
 
 
-# Assignments and Projects
+# Links for Assignments and Projects
 
 ## Assignment: [Visualizing government Debt](dataviz-examples.md)
-The link for this assignment will be updated upon completion.
+
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
-The link for this assignment will be updated upon completion.
+
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one.md)
-[Part II](final-project-part-two.md)
-[Part III](final-project-part-three)
 
-The link for this project will be updated upon completion.
+- [Part I](final-project-part-one.md)
+- [Part II](final-project-part-two.md)
+- [Part III](final-project-part-three)
 
----
 
-# References
-References to be added later.
 
 # AI acknowledgements
-As of now, I have not used AI for creating this portfolio. Acknowledgements will be updated later if AI is used.
+ChatGPT 5 has been used in the above projects and assignments to help navigate through tools including Shorthand and Tableau.
