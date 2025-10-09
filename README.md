@@ -31,7 +31,7 @@ The following are the top three things that I hope to obtain through this course
 
 - [Part I](final-project-part-one.md)
 - [Part II](final-project-part-two.md)
-- [Part III](final-project-part-three)
+- [Part III](final-project-part-three.md)
 
 
 
