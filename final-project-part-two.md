@@ -42,7 +42,6 @@ I interviewed multiple peer students--both within and outside this course. Here 
 | Quantitative data must be accurate and consistent with the main ideas. | Double-check all data sources, and add restaurant/menu data sources received from interviews and assignment comments. |
 
 
-## References
 
 
 ## AI acknowledgements
