@@ -2,7 +2,7 @@
 
 # The final data story
 
-The final data story I created is a Shorthand storyboard which can be accessed via .
+The final data story I created is a Shorthand storyboard which can be accessed via https://chongdiw-dataviz.shorthandstories.com/fa1b5f6b-df97-496a-81a4-ffdc044a3911/.
 
 # Changes made since Part II
 
