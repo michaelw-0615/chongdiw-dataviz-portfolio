@@ -21,7 +21,7 @@ The following are the top three things that I hope to obtain through this course
 
 # Assignments and Projects
 
-## Assignment: [Visualizing government Debt](visualizing-government-debt)
+## Assignment: [Visualizing government Debt](dataviz-examples)
 The link for this assignment will be updated upon completion.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
