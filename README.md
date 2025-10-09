@@ -21,17 +21,17 @@ The following are the top three things that I hope to obtain through this course
 
 # Assignments and Projects
 
-## Assignment: [Visualizing government Debt](dataviz-examples)
+## Assignment: [Visualizing government Debt](dataviz-examples.md)
 The link for this assignment will be updated upon completion.
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 The link for this assignment will be updated upon completion.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[Part I](final-project-part-one.md)
+[Part II](final-project-part-two.md)
+[Part III](final-project-part-three)
 
 The link for this project will be updated upon completion.
 
